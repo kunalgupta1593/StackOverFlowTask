@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (3.0.1)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - SwiftGifOrigin (1.5.3)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0.0)
+  - SDWebImage (~> 3.8)
+  - SwiftGifOrigin (~> 1.5)
+  - SwiftyJSON (~> 2.3)
+
+SPEC CHECKSUMS:
+  Alamofire: 2457e1b2e6c46bb05c3a598c542b7bfd08893775
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  SwiftGifOrigin: 893ebcceabe215a00b607328b5322b4e228347e5
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: d5626bfcd0fbc04c967d9d7175bc121bb87a9c76
+
+COCOAPODS: 1.0.1
